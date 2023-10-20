@@ -34,7 +34,7 @@ $p5 = new Pessoa();
 $p5->nome = "Guilherme Carvalho";
 $p5->altura =  1.75;
 $p5->nascimento = "09-06-2007";
-$p5->hobby = "Ler";
+$p5->hobby = "Jogar Videogame";
 
 $p6 = new Pessoa();
 

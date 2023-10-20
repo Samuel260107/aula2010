@@ -9,7 +9,7 @@ Class Pessoa{
         echo "Nome: ".$this->nome."<br/>";
         echo "Altura: ".$this->altura."<br/>";
         echo "Nascimento: ".$this->nascimento."<br/>";
-        echo "Salario: ".$this->hobby."<br/>";
+        echo "Hobby: ".$this->hobby."<br/>";
     }
 }
 ?>
